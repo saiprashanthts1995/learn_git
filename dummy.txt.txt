@@ -1,0 +1,15 @@
+one time
+  128  git init  --> git initialize local 
+  139  git config --global user.email "balagisai92@gmail.com"
+  140  git config --globa user.name "Sai Balagi Thalanayar Swaminathan"
+
+
+
+  129  git  --> to list down commands
+  130  git remote add origin https://github.com/saibalagi006/learn_git.git --> origin linking the repo
+  131  git pull origin master --> master branch name local save
+  133  git branch  --> list down of branches
+  134  git checkout -b saibalagi --> saibalgi branch name -b new 
+  137  git add dummy.txt.txt  --> git add --all
+  138  git commit -m 'adding new file'
+  142  git push origin saibalagi  --> push to corresponding repo
